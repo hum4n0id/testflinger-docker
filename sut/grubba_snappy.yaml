@@ -1,0 +1,8 @@
+device_ip: 10.229.48.48
+node_id: d0eff0
+node_name: grubba
+maas_user: testflinger_a
+agent_name: grubba
+env:
+    HEXR_DEVICE_SECURE_ID: J3B4uh2fEFhRZGLJUE9Gtm
+    DEVICE_IP: 10.229.48.48
